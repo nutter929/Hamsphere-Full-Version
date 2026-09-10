@@ -234,3 +234,6 @@ This repository serves as the official landing page for HamSphere. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of HamSphere today!**
+
+---
+**Last updated:** 2026-09-10 21:19:01 UTC
