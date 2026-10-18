@@ -236,4 +236,4 @@ This repository serves as the official landing page for HamSphere. The software 
 **Get the most recent version of HamSphere today!**
 
 ---
-**Last updated:** 2026-10-17 23:39:00 UTC
+**Last updated:** 2026-10-18 02:13:22 UTC
